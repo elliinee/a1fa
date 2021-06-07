@@ -1,14 +1,14 @@
 @font-face {
   font-family: "TTNorms";
-  src: local("TTNorms"), url(/fonts/TTNorms-Regular.ttf);
+  src: local("TTNorms"), url(https://elliinee.github.io/a1fa/fonts/TTNorms-Regular.ttf);
 }
 @font-face {
   font-family: "TTNorms-Medium";
-  src: local("TTNorms-Medium"), url(/fonts/TTNorms-Medium.ttf);
+  src: local("TTNorms-Medium"), url(https://elliinee.github.io/a1fa/fonts/TTNorms-Medium.ttf);
 }
 @font-face {
   font-family: "TTNorms-Bold";
-  src: local("TTNorms-Bold"), url(/fonts/TTNorms-Bold.ttf);
+  src: local("TTNorms-Bold"), url(https://elliinee.github.io/a1fa/fonts/TTNorms-Bold.ttf);
 }
 body {
   font-family: "TTNorms";
